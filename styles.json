@@ -1,0 +1,18 @@
+{
+  "light": {
+    "bg": "#ffffff",
+    "fg": "#000000",
+    "button_bg": "#f0f0f0",
+    "button_fg": "#000000",
+    "entry_bg": "#ffffff",
+    "entry_fg": "#000000"
+  },
+  "dark": {
+    "bg": "#2e2e2e",
+    "fg": "#ffffff",
+    "button_bg": "#444444",
+    "button_fg": "#ffffff",
+    "entry_bg": "#333333",
+    "entry_fg": "#ffffff"
+  }
+}
